@@ -1,0 +1,7 @@
+[rpc]
+p2p = "https://neon-proxy-mainnet.solana.p2p.org"
+everstake = "https://neon-mainnet.everstake.one"
+#neon = ""
+
+[solana]
+mainnet = ""
